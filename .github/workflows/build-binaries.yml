@@ -1,4 +1,4 @@
-name: aBuild binaries for UnblockNeteaseMusic
+name: Build binaries for UnblockNeteaseMusic
 
 on:
     push:
